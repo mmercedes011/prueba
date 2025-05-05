@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+}
+.logo-titulo {
+    display: flex;
+    align-items: center;
+    gap: 15px; /* Espacio entre logo y título */
+}
+
+.logo {
+    height: 150px; /* ajustar el tamaño */
+    width: auto;
+}
